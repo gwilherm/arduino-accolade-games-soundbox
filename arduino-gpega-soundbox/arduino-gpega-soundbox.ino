@@ -4,9 +4,9 @@
 int KNOB_PIN   = A0;    // select the input pin for the potentiometer
 int BUZZ_PIN   = 13;    // select the pin for the LED
 int BUTTON_PIN = 5;
-int DATA_PIN   = 7;     // Data pin (SER) of 74HC595 is connected to Digital pin 7
-int LATCH_PIN  = 8;     // Latch pin (RCLK) of 74HC595 is connected to Digital pin 8
-int CLOCK_PIN  = 9;     // Clock pin (SRCLK) of 74HC595 is connected to Digital pin 9
+int DATA_PIN   = 6;     // Data pin (SER) of 74HC595 is connected to Digital pin 6
+int LATCH_PIN  = 7;     // Latch pin (RCLK) of 74HC595 is connected to Digital pin 7
+int CLOCK_PIN  = 8;     // Clock pin (SRCLK) of 74HC595 is connected to Digital pin 8
 
 // SW
 #define REST_NOTE 0
