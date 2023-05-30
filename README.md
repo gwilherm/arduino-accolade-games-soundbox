@@ -1,6 +1,6 @@
-# Arduino Soundbox of Accolade Grand Prix game
+# Arduino Soundbox of Accolade Grand Prix and Test Drive II games
 
-Accolade Grand Prix 1 `GPEGA.EXE` was one of my childhood PC game and I made an Adruino soundbox of it, jff.
+Accolade Grand Prix 1 `GPEGA.EXE` and Test Drive II `TD2EGA.EXE` was two of my childhood PC games and I made an Adruino soundbox of it, jff.
 
 ## Photo
 ![](schematics/photo.jpg)
